@@ -1,0 +1,15 @@
+h1{text-align: center;
+color: rgb(5, 10, 18);
+background-color: rgb(114, 88, 209);
+text-decoration: solid;
+}
+h2{
+    text-decoration:underline ;
+}
+ .profile-photo{
+    position: relative;
+    align-items: end;
+    align-items: top;
+    border-color: aqua;
+ }
+ html {align-items: center;}
